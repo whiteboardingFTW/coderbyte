@@ -6,7 +6,6 @@
 // Method #1
 function FirstFactorial(num) {
 
-  // code goes here
   var x = 1;
   for (i = num; i > 1; i--) {
     x *= i;
