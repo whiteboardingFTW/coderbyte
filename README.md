@@ -16,5 +16,8 @@ JavaScript solutions to Coderbyte code problems.
 |    8   | Check Nums         |   Easy     |     1     |
 |    9   | Time Convert       |   Easy     |     1     |
 |   10   | Alphabet Soup      |   Easy     |     1     |
+|   11   | AB Check           |   Easy     |     1     |
+|   12   | Vowel Count        |   Easy     |     1     |
+|   13   | Word Count         |   Easy     |     1     |
 
 ### MEDIUM
