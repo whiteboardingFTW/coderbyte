@@ -19,5 +19,10 @@ JavaScript solutions to Coderbyte code problems.
 |   11   | AB Check           |   Easy     |     1     |
 |   12   | Vowel Count        |   Easy     |     1     |
 |   13   | Word Count         |   Easy     |     1     |
+|   14   | Ex Oh              |   Easy     |     1     |
+|   15   | Palindrome         |   Easy     |     1     |
+|   16   | Arith Geo          |   Easy     |     1     |
+|   17   | Array Addition I   |   Easy     |     1     |
+|   18   | Letter Count I     |   Easy     |     1     |
 
 ### MEDIUM

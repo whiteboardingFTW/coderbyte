@@ -1,4 +1,4 @@
-// Coderbyte Easy Question #15
+// Coderbyte Easy Question #15 (Palindrome)
 // Have the function Palindrome(str) take the str parameter being passed and
 // return the string true if the parameter is a palindrome, (the string is the
 // same forward as it is backward) otherwise return the string false. For
